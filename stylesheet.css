@@ -11,6 +11,12 @@
     padding: 10px;
     margin: 20px 0; /* 根据需要调整外边距 */
 }
+@media (max-width: 768px) {
+    #clustrmaps-widget {
+        padding: 5px;
+        margin: 10px 0;
+    }
+}
 /* latin */
 @font-face {
   font-family: 'Lato';
